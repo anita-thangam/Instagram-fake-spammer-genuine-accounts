@@ -64,8 +64,10 @@ We utilize a labeled dataset containing features like profile picture presence, 
 **Results**
 
 - **Decision Tree Accuracy:** 87%
+-  <img width="681" height="257" alt="image" src="https://github.com/user-attachments/assets/70298e32-f0f7-437d-acbd-2dbe7b425986" />
 - **Random Forest Accuracy:** 94%
-- <img width="681" height="257" alt="image" src="https://github.com/user-attachments/assets/70298e32-f0f7-437d-acbd-2dbe7b425986" />
+-<img width="681" height="257" alt="image" src="https://github.com/user-attachments/assets/5cb056b2-3858-4833-926b-a3db935eae42" />
+
 
 - Most Important Features:
   - `profile_pic`, `#followers`, `description length`, `#follows`, `private`
