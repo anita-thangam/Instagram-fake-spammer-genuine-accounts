@@ -64,7 +64,8 @@ We utilize a labeled dataset containing features like profile picture presence, 
 **Results**
 
 - **Decision Tree Accuracy:** 87%
--  <img width="681" height="257" alt="image" src="https://github.com/user-attachments/assets/70298e32-f0f7-437d-acbd-2dbe7b425986" />
+-<img width="617" height="290" alt="image" src="https://github.com/user-attachments/assets/b569f3be-56a4-44ff-9e5c-6b981f05994e" />
+
 - **Random Forest Accuracy:** 94%
 -<img width="681" height="257" alt="image" src="https://github.com/user-attachments/assets/5cb056b2-3858-4833-926b-a3db935eae42" />
 
